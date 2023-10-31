@@ -1,6 +1,10 @@
 # newtoken
-
-Testnet address:
+This is testnet!!!
+TX hash:
+```
+0xd606b849bd4821e98567b05e7993dd7a4ac2675f2ed54fb39ef381c384855f44
+```
+Token contract address:
 ```
 0x46fda1E07FAb400bDffF4D178EcD2EfE39a39729
 ```
